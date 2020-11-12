@@ -10,7 +10,7 @@ media
 *.bak
 
 #PyCharm #
-.idea/*
+.idea/
 *.iws /out/
 
 # Python #
